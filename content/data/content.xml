@@ -1,0 +1,1315 @@
+<zuiprezi>
+  <version>11</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-19969.005952153657" y="-14333.902908466196" width="39938.011904307314" height="28667.805816932392"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="2_30863873" type="text" x="415.41580188679217" y="10036.015330188671" r="0" s="76.55950566122091" class="head head-background">
+      <height>27.59765625</height>
+      <width>318.1244175332596</width>
+      <p align="center">
+        <text><![CDATA[LOCKHEED MARTIN F-35]]></text>
+      </p>
+    </object>
+    <object id="102_30863873" type="button" x="83.67844372116451" y="-7414.2154000763185" r="-7.730268432706628" s="5.472633168263725" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>615.5444502893215</w>
+        <h>631.9628295898438</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_30863873" type="button" x="0" y="3.3421838851152485e-13" r="0" s="49.978740963968605" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800.0193202688031</w>
+        <h>574.4344743603892</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="110_30863873" type="button" x="7200.1658373963" y="-8386.91471635754" r="-6.498292810093309" s="5.472633168263709" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>615.5444502893215</w>
+        <h>628.965087890625</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="103_30863873" type="button" x="3684.9621367889818" y="-10087.922039063347" r="10.52272547114421" s="5.472633168263713" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>615.5444502893215</w>
+        <h>642.85498046875</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="34_30863873" type="button" x="-10495.175488199917" y="-7823.90634513336" r="0" s="14.497905481452037" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>848.3309146656709</w>
+        <h>582.307933807373</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="35_30863873" type="button" x="-13282.855589946854" y="-7512.330448674532" r="-8.485428639973104" s="4.4900371218973385" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3534511503835</w>
+        <h>1406.226909481286</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="36_30863873" type="button" x="-7659.321460990212" y="-8209.985554203095" r="0.34781246436794816" s="4.490037121897328" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3534511503835</w>
+        <h>1406.226909481286</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_30863873" type="image" x="-13496.5520515428" y="10360.55910249062" r="-4.653385995023162" s="7.413507242934719">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="37_30863873" type="text" x="-13760.4" y="-10067.1" r="-8.485428639973101" s="14.543717813491588" class="strong">
+      <height>28.8</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text color="4420372"><![CDATA[THREE MAIN MODELS:]]></text>
+      </p>
+    </object>
+    <object id="38_30863873" type="text" x="-13510.218270099622" y="-7503.037597605825" r="-8.485428639973101" s="13.221561648628716" class="body">
+      <height>326.8359375</height>
+      <width>349.05321935687584</width>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[The F-35A]]></text>
+        <text color="0"><![CDATA[: Conventional takeoff and landing variant.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[The F-35B]]></text>
+        <text color="0"><![CDATA[: Short take-off and vertical-landing variant.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[The F-35C]]></text>
+        <text color="0"><![CDATA[: Carrier-based Catapult Assisted Take-Off Barrier Arrested Recovery variant.]]></text>
+      </p>
+    </object>
+    <object id="44_30863873" type="button" x="7914.527678364834" y="-8597.211567618622" r="0" s="12.66060542761265" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>873.2278481012659</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_30863873" type="text" x="207.9500000000024" y="-6160.849999999995" r="-7.730268432706616" s="8.678800470825877" class="head">
+      <height>27.59765625</height>
+      <width>409.5986601141346</width>
+      <p align="center">
+        <text><![CDATA[F-35A]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="51_30863873" type="image" x="6438.833754110026" y="-7072.277294573436" r="-0.05175279047702569" s="1.1461736891312508">
+      <source w="211" h="366" bt="207.3" bl="1075.2">1083451830<url>1083451830.swf</url></source>
+      <sourceUrl>pin.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1083451830</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/3a633079aab1d909cd876a61d90c6e80bf1fc.swf</url></resource></object>
+    <object id="55_30863873" type="text" x="7373.014683739228" y="-7177.605142536446" r="-6.498292810093288" s="7.889818609841723" class="head">
+      <height>27.59765625</height>
+      <width>409.5986601141346</width>
+      <p align="center">
+        <text><![CDATA[F-35C]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="50_30863873" type="text" x="3425.157757972225" y="-8896.885851120349" r="10.522725471144197" s="7.8898186098416945" class="head">
+      <height>27.59765625</height>
+      <width>409.5986601141346</width>
+      <p align="center">
+        <text><![CDATA[F-35B]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="67_30863873" type="button" x="12564.298987018385" y="2650.5924741695035" r="-1.6045367636655043e-15" s="7.928904475077673" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>939.8686205154116</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_30863873" type="button" x="10944.930948913148" y="2389.1755642319094" r="-6.498292810093311" s="3.790884370429473" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="4_30863873" type="button" x="14392.1376553619" y="2996.6846340243255" r="4.323864922410428" s="3.790884370429472" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="72_30863873" type="text" x="414.8358531003572" y="-106.11073255821528" r="0" s="19.166597137602956" class="strong">
+      <height>57.6</height>
+      <width>311.99331065133265</width>
+      <p align="center">
+        <text color="1657497"><![CDATA[Hows my bird better than the commoners?]]></text>
+      </p>
+      <meta>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="73_30863873" type="button" x="-12306.631460753364" y="2290.5488183958028" r="-4.653385995023137" s="7.107764603638625" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.013363028953</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_30863873" type="button" x="-6086.255837055658" y="3750.5098856049976" r="-6.498292810093309" s="4.113156592097134" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>615.5609847772974</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_30863873" type="button" x="-7225.324079388117" y="-2570.824235897613" r="-3.9054043234041047" s="3.905949436007224" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>615.0093808630394</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="7_30863873" type="image" x="10944.715227592924" y="2389.0635240908355" r="-6.4982928100933135" s="4.476172316385649">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="8_30863873" type="image" x="14391.87740126202" y="2996.2653379737544" r="4.323864922410423" s="4.4761723163856555">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="9_30863873" type="image" x="-6086.775086285734" y="3750.8598382007767" r="-6.49829281009331" s="3.841692093774237">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="10_30863873" type="image" x="-7230.763778666737" y="-2572.985667040966" r="-3.9054043234041083" s="3.614655772083775">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="5_30863873" type="button" x="6522.429167036455" y="2534.959406017042" r="11.455586438299521" s="4.113156592097142" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>615.5609847772974</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="11_30863873" type="image" x="6549.177329317368" y="2512.732258387865" r="11.455586438299523" s="3.8416920937742463">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="5" type="button" x="11650.599999999997" y="-3040" r="-8.485428639973101" s="4.4900371218973385" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1060.3534511503835</w>
+        <h>1406.226909481286</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="90_30863873" type="text" x="10816.33086447537" y="1260.2277065702638" r="-6.49829281009331" s="12.24724288635782" class="head">
+      <height>27.59765625</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text color="6557470"><![CDATA[ARMAMENTS]]></text>
+      </p>
+    </object>
+    <object id="91_30863873" type="text" x="10925.4" y="2564.2999999999993" r="-6.498292810093303" s="5.627776631771466" class="body">
+      <height>359.51953125</height>
+      <width>427.1553794025431</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[F-35 has just got more deadly because:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[-> inclusion of two internal bomb bays can carry upto 910 kgs. of explosive.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[-> Addition of two external hard points to carry pylons.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[-> Inclusion of two four barrel 25mm GAU 24/A cannons.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[-> Ability to carry two B-61 nuclear bombs.]]></text>
+      </p>
+    </object>
+    <object id="92_30863873" type="text" x="14437.15982274645" y="2017.214334414448" r="4.323864922410414" s="6.190554294948615" class="strong">
+      <height>57.6</height>
+      <width>343.011046693426</width>
+      <p align="center">
+        <text color="6557470"><![CDATA[The F-35  against its elder bro F-22]]></text>
+      </p>
+    </object>
+    <object id="93_30863873" type="text" x="14377.944237336213" y="3129.949963756876" r="4.323864922410422" s="4.9288762126591985" class="body">
+      <height>326.8359375</height>
+      <width>508.7053794025431</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Enlarged weapon bay]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Higher fuel Efficiency]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Lesser maintenance Cost]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Increased air flexibility]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[33% cheaper than the F-22]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[35% lighter than the F-22]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Improved pilot awareness and target identification ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Requires 25% lesser time to relay information to command center ]]></text>
+      </p>
+    </object>
+    <object id="94_30863873" type="text" x="-7349.5033053848465" y="-3416.6862002875696" r="-3.9054043234041056" s="6.555433243839063" class="strong">
+      <height>28.8</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text color="6557470"><![CDATA[PREMIUM DESIGN]]></text>
+      </p>
+    </object>
+    <object id="96_30863873" type="text" x="-6182.695250432266" y="2905.7893486586036" r="-6.498292810093309" s="7.717211663621702" class="strong">
+      <height>28.8</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text color="3288169"><![CDATA[LM F-35 FACTS:]]></text>
+      </p>
+    </object>
+    <object id="97_30863873" type="text" x="-5937.45" y="3830.5" r="-6.4982928100933135" s="5.14448051567357" class="body">
+      <height>261.46875</height>
+      <width>508.7053794025431</width>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Top speed]]></text>
+        <text color="0"><![CDATA[: 1,930 km/h]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Range]]></text>
+        <text color="0"><![CDATA[: 2,220 km]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Wingspan]]></text>
+        <text color="0"><![CDATA[: 11 m]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Length]]></text>
+        <text color="0"><![CDATA[: 16 m]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[First flight]]></text>
+        <text color="0"><![CDATA[: December 15, 2006]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Engine type]]></text>
+        <text color="0"><![CDATA[: Pratt & Whitney F135]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="6557470"><![CDATA[Manufacturer]]></text>
+        <text color="0"><![CDATA[: Lockheed Martin   Aeronautics]]></text>
+      </p>
+    </object>
+    <object id="21_30863873" type="image" x="-12233.2034277103" y="-4718.163190908583" r="5.890850966315048" s="1.07193067049792">
+      <source w="211" h="366" bt="207.3" bl="1075.2">1083451830<url>1083451830.swf</url></source>
+      <sourceUrl>pin.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1083451830</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/3a633079aab1d909cd876a61d90c6e80bf1fc.swf</url></resource></object>
+    <object id="18_30863873" type="image" x="13984.118181818174" y="10324.44707241909" r="5.645926575769764" s="7.413507242934711">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="60_30863873" type="image" x="-13833.20417039983" y="-10631.619528003228" r="10.522725471144213" s="1.9297967625298589">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="61_30863873" type="image" x="-13830.831766618172" y="-10607.919453861428" r="-37.69358401509056" s="1.9297967625298615">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="63_30863873" type="image" x="-5580.282396977459" y="-11045.675878922322" r="37.69358401509056" s="1.9297967625298615">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="65_30863873" type="image" x="-9708.516595606225" y="-11077.679366299832" r="-49.534105100471145" s="1.929796762529863">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="40_30863873" type="text" x="-7721.85" y="-8135.55" r="0.3478124643679486" s="7.132375863372508" class="head">
+      <height>772.734375</height>
+      <width>576.2053794025431</width>
+      <p>
+        <text color="6557470"><![CDATA[F-35A:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ It is the smallest, lightest F-35 version and is the only variant equipped with an internal cannon, the GAU-22/A. This 25 mm cannon is a development of the GAU-12 carried by the USMC's AV-8B Harrier II. It is designed for increased effectiveness against ground targets compared to the 20 mm M61 Vulcan cannon carried by other USAF fighters.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="6557470"><![CDATA[F-35B:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[The B sacrifices about a third of the other version's fuel volume to accommodate the vertical flight system. Vertical takeoffs and landings are riskier due to threats such as foreign object damage. . The first test flight of the F-35B was conducted on 11 June 2008.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="6557470"><![CDATA[F-35C]]></text>
+        <text><![CDATA[:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[The F-35C carrier variant features larger wings with foldable wingtip sections, larger wing and tail control surfaces for improved low-speed control, stronger landing gear for the stresses of carrier arrested landings, a twin-wheel nose gear, and a stronger tailhook for use with carrier arrestor cables. The larger wing area allows for decreased landing speed while increasing both range and payload.]]></text>
+      </p>
+    </object>
+    <object id="112_30863873" type="image" x="-9022.52958602189" y="23.084279144677385" r="18.887022981055434" s="1.7210492778582442">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="113_30863873" type="image" x="-15923.840204962447" y="717.6833681608124" r="-49.53410510047107" s="1.6913825913523948">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="33_30863873" type="button" x="416.1499673857327" y="2079.485531039153" r="0" s="11.027663378020646" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_24309637" type="image" x="38.16495496462608" y="-7748.13755519892" r="-7.730268432706628" s="5.701191430426139">
+      <source w="660" h="440">3062436094<mask x="57" y="0" w="545" h="440"/>
+      <url>3062436094.jpg</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fc%2Ff%2Ff%2Fef9a432be8560df19e27113fb670053035a55.jpg</sourceUrl>
+      <meta>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>3062436094</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/f/f/ef9a432be8560df19e27113fb670053035a55.jpg</url></resource></object>
+    <object id="2_24309637" type="image" x="7163.249333333321" y="-8729.612666666653" r="-6.498292810093309" s="7.421669317714492">
+      <source w="600" h="338">3062443114<mask x="90" y="0" w="419" h="338"/>
+      <url>3062443114.jpg</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F2%2F7%2F0%2F562febbfcf8dd6a235058e9546f42f4788aaa.jpg</sourceUrl>
+      <meta>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>3062443114</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/0/562febbfcf8dd6a235058e9546f42f4788aaa.jpg</url></resource></object>
+    <object id="56_30863873" type="image" x="10867.08066367199" y="-11686.022421653135" r="-17.07277107171453" s="1.2349024998104876">
+      <source w="211" h="366" bt="207.3" bl="1075.2">1083451830<url>1083451830.swf</url></source>
+      <sourceUrl>pin.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1083451830</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/3a633079aab1d909cd876a61d90c6e80bf1fc.swf</url></resource></object>
+    <object id="101_30863873" type="image" x="4101.279129342935" y="-11003.025732624" r="-103.60661166235629" s="1.378426258949901">
+      <source w="757" h="223">1099777685<url>1099777685.png</url></source>
+      <sourceUrl>sticky_tape_new.png</sourceUrl>
+      <image>
+        <transform>
+          <flip/>
+        </transform>
+      </image>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1099777685</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/d/7b4dafaf4d669dc86be8359f853a3aa88a0e8.png</url></resource></object>
+    <object id="3_24309637" type="image" x="3757.784416581467" y="-10454.813750673022" r="10.522725471144213" s="8.446209526557238">
+      <source w="530" h="297">3062439367<mask x="80" y="0" w="368" h="297"/>
+      <url>3062439367.jpg</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fa%2F0%2F0%2Ff487e2f2dfa9b04a51f5e60f311e891700ccc.jpg</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>3062439367</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/0/f487e2f2dfa9b04a51f5e60f311e891700ccc.jpg</url></resource></object>
+    <object id="4_24309637" type="image" x="-10827.396840054842" y="1525.6749421068905" r="-4.653385995023168" s="7.61380494416879">
+      <source w="460" h="300">3062388763<mask x="29" y="0" w="400" h="300"/>
+      <url>3062388763.jpe</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fconverted%2Fb%2F7%2Fe%2Feb7ec1bb1cd0d70a1837c859218799634e75c.jpe</sourceUrl>
+      <meta>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>3062388763</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/7/e/eb7ec1bb1cd0d70a1837c859218799634e75c.jpe</url></resource></object>
+    <object id="78_30863873" type="text" x="-14144.345950196164" y="2534.854541595105" r="-4.653385995023154" s="9.950581472816747" class="body">
+      <height>294.15234375</height>
+      <width>398.9969994006366</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Fifth generation combat aircraft . ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[All weather stealth multirole fighters.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Designed to perform:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[      Air to surface attacks.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[      Air to air attacks.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[      Aerial reconnaissance]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[      Air defense missions. ]]></text>
+      </p>
+    </object>
+    <object id="77_30863873" type="text" x="-14141.25" y="785.85" r="-4.653385995023151" s="12.600488390262344" class="strong">
+      <height>28.8</height>
+      <width>286.1418402088995</width>
+      <p align="center">
+        <text color="6557470"><![CDATA[SALIENT FEATURES:]]></text>
+      </p>
+    </object>
+    <object id="1_24309637" type="shape" x="-4007.9333800929726" y="-3355.1310351466473" r="51.4074402825332" s="14.293333333333312" class="line3">
+      <geom type="line">
+        <sp>-186.43372325945225 0</sp>
+        <ep>186.43372325945225 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_30863873" type="shape" x="-5688.520333525065" y="-5441.080892846081" r="-1.4662341133868451e-16" s="8.455687245405603" class="poly1">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="5_24309637" type="shape" x="-6182.93866666666" y="314.989333333333" r="-4.20121347216671" s="14.293333333333315" class="line3">
+      <geom type="line">
+        <sp>195.54504002018993 0</sp>
+        <ep>-195.54504002018996 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="74_30863873" type="shape" x="-9027.646810675906" y="523.5300435399073" r="0" s="9.017493066902976" class="poly1">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="6_24309637" type="shape" x="3864.4259999999945" y="-4156.590666666661" r="-59.99999999999999" s="14.29333333333332" class="line3">
+      <geom type="line">
+        <sp>-197.06992454856632 0</sp>
+        <ep>197.0699245485663 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="57_30863873" type="shape" x="5280.463851056612" y="-6607.935388689808" r="-1.4108376498284873e-15" s="9.017493066902976" class="poly1">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="7_24309637" type="shape" x="6900.381570294573" y="-411.0932640600075" r="-10.586417563680454" s="14.293333333333315" class="line3">
+      <geom type="line">
+        <sp>-192.53906959048035 0</sp>
+        <ep>192.53906959048032 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="71_30863873" type="shape" x="9662.218090789394" y="-909.5747636979198" r="6.265377771390525e-31" s="9.017493066902968" class="poly1">
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="1" type="text" x="-7223.65" y="-2408.8499999999995" r="-3.9054043234041056" s="7.799703313059414" class="head">
+      <height>220.78125</height>
+      <width>268.06640625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reduce body size.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Forward fuse lage increased by 5 inches.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Increased size of weapons bay.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Single but more powerful engine. ]]></text>
+      </p>
+    </object>
+    <object id="8" type="image" x="12027.152162236544" y="1168.9672577659476" r="5.890850966315053" s="1.0719306704979197">
+      <source w="211" h="366" bt="207.3" bl="1075.2">1083451830<url>1083451830.swf</url></source>
+      <sourceUrl>pin.swf</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1083451830</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/3a633079aab1d909cd876a61d90c6e80bf1fc.swf</url></resource></object>
+    <object id="9" type="text" x="11210.001276297804" y="-5715.581972970355" r="-8.485428639973101" s="14.54371781349159" class="body">
+      <height>32.68359375</height>
+      <width>263.4243266034552</width>
+      <p>
+        <text color="16711680"><![CDATA[INCREASED STEALTH]]></text>
+      </p>
+    </object>
+    <object id="10" type="text" x="11680.73661908564" y="-2827.4497541673745" r="-8.485428639973101" s="10.926910453412155" class="body">
+      <height>392.203125</height>
+      <width>394.2726562499999</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Jet achieves lower radar detection due to: ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[ stealthy radar absorbent                  materials used in-built.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[ changes in shape of plane design.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[ infrared signature.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[ lacks leading edge extensions.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[ implantation of visual signal reduction measures in the jet.]]></text>
+      </p>
+    </object>
+    <object id="11" type="text" x="6839.25" y="1640.25" r="11.455586438299532" s="7.272727272727275" class="body">
+      <height>32.68359375</height>
+      <width>276.5640625</width>
+      <p>
+        <text color="6557470"><![CDATA[ADVANCED SENSORS]]></text>
+      </p>
+    </object>
+    <object id="12" type="text" x="6412.641758906043" y="2704.8221295898184" r="11.455586438299528" s="5.464107642920566" class="body">
+      <height>326.8359375</height>
+      <width>331.5579441026619</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Inclusion of advanced radar warning receiver.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Fabrication of multi-spectral image counter measures systems.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Implantation of electronic warfares and electro-optical systems.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[10 Rf anteanna on airframe]]></text>
+      </p>
+    </object>
+    <object id="0_124062715" type="text" x="460.34162244779554" y="2597.5083132950645" r="0" s="15.840162923638806" class="body">
+      <height>261.46875</height>
+      <width>446.53125</width>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Four fold increased accuracy in air to air combat.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Eight fold increased accuracy in air to surface combat.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Three fold increased accuracy in aerial reconnaissance missions.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="0"><![CDATA[Two fold increase in range during combat.]]></text>
+      </p>
+    </object>
+    <object id="1_124062715" type="image" x="-10024.95" y="-2764" r="-3.9054043234041083" s="3.614655772083775">
+      <source w="600" h="600">3063605551<url>3063605551.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F7%2F4%2F5%2F0d9e0dd80fed5c1d364baf573c097e5f8450e.png</sourceUrl>
+      <meta>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>3063605551</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/4/5/0d9e0dd80fed5c1d364baf573c097e5f8450e.png</url></resource></object>
+    <object id="2_124062715" type="text" x="-10019.067036117498" y="-2996.331261024677" r="-3.9054043234041056" s="9.437641008801892" class="head">
+      <height>55.1953125</height>
+      <width>254.20703125</width>
+      <p align="center">
+        <text color="6557470"><![CDATA[WHAT SO SPECIAL ABOUT IT??]]></text>
+      </p>
+    </object>
+    <object id="5_124062715" type="image" x="-11509.249999999998" y="6595.900000000001" r="0" s="11.885504090352098">
+      <source w="231" h="219">3063626689<url>3063626689.png</url></source>
+      <sourceUrl>b.png</sourceUrl>
+    <resource><id>3063626689</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/8/ff7ae0234f6cd0016d9e2689a66ecb6f0f3fa.png</url></resource></object>
+    <object id="6_124062715" type="image" x="6056.899999999998" y="5966.000000000001" r="0" s="3.9444571228555">
+      <source w="1000" h="622">3063626929<url>3063626929.jpg</url></source>
+      <sourceUrl>f22vsf35.jpg</sourceUrl>
+    <resource><id>3063626929</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/8/2/3e4fef9f9146fc30a9ab46ffe6ce657617977.jpg</url></resource></object>
+    <object id="7_124062715" type="image" x="14653.999999999996" y="-8598.900000000001" r="0" s="13.348369068073904">
+      <source w="488" h="287">3063627658<url>3063627658.jpg</url></source>
+      <sourceUrl>variant%20comparison.jpg</sourceUrl>
+    <resource><id>3063627658</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/8/d/4dd5cdf5c9e2f9e32f24917355d27b886ee29.jpg</url></resource></object>
+    <object id="3_124062715" type="button" x="-3565.8923538866175" y="6935.827966376229" r="-6.498292810093309" s="4.113156592097134" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>676.2909267380937</w>
+        <h>507.218195053571</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    </object>
+    <object id="4_124062715" type="image" x="-3632.410055020044" y="7019.699952595779" r="-6.4982928100933055" s="3.841692093774237">
+      <source w="600" h="600">1091176260<url>1091176260.png</url></source>
+      <sourceUrl>postit.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>investigation-wall2</parentTemplate>
+      </meta>
+    <resource><id>1091176260</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/5/0/070740f5c84d900d405762e165d791b290d46.png</url></resource></object>
+    <object id="8_124062715" type="text" x="-3750.553479534488" y="6417.393339951361" r="-6.498292810093309" s="7.717211663621703" class="strong">
+      <height>57.6</height>
+      <width>270.7421875</width>
+      <p align="center">
+        <text color="3288169"><![CDATA[How about the price ]]></text>
+      </p>
+      <p align="center">
+        <text color="3288169"><![CDATA[now!]]></text>
+      </p>
+    </object>
+    <object id="9_124062715" type="text" x="-3504.6137206693065" y="7260.280122668669" r="-6.498292810093314" s="5.14448051567357" class="body">
+      <height>163.41796875</height>
+      <width>508.7053794025431</width>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[LM F-35 (GEN 5)]]></text>
+        <text color="6557470"><![CDATA[: 100 M Dollars/unit]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[LM F-22 (GEN 5)]]></text>
+        <text color="6557470"><![CDATA[: 150 M Dollars/unit]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[SU-35 (GEN 4)]]></text>
+        <text color="6557470"><![CDATA[: 65 M Dollars/unit]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[Rafale (GEN 4)]]></text>
+        <text color="6557470"><![CDATA[: 100 M Dollars/unit]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="3288169"><![CDATA[LM F-16 (GEN 3)]]></text>
+        <text color="6557470"><![CDATA[: 25 M Dollars/ unit ]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="0" fadescale="0.12592545181353845">
+      <object id="background1613400193" type="image" x="-206.96999083587005" y="-84.48100239435358" r="0" s="15.145763925297908">
+        <source w="3200" h="2055">1613400193<url>1613400193.png</url></source>
+        <sourceUrl>Comp%203%20(0%3B00%3B00%3B00).png</sourceUrl>
+      <resource><id>1613400193</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/4/4/79bed2761bb7b5328b9a1e18e7d9769d8be8c.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="5_124062715"/>
+    </s>
+    <s>
+      <eagle o="31_30863873"/>
+    </s>
+    <s>
+      <eagle o="73_30863873"/>
+    </s>
+    <s>
+      <eagle o="9_30863873"/>
+    </s>
+    <s>
+      <eagle o="34_30863873"/>
+    </s>
+    <s>
+      <eagle o="35_30863873"/>
+    </s>
+    <s>
+      <eagle o="36_30863873"/>
+    </s>
+    <s>
+      <eagle o="44_30863873"/>
+    </s>
+    <s>
+      <eagle o="102_30863873"/>
+    </s>
+    <s>
+      <eagle o="103_30863873"/>
+    </s>
+    <s>
+      <eagle o="110_30863873"/>
+    </s>
+    <s>
+      <eagle o="7_124062715"/>
+    </s>
+    <s>
+      <eagle o="1_124062715"/>
+    </s>
+    <s>
+      <eagle o="10_30863873"/>
+    </s>
+    <s>
+      <eagle o="11_30863873"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="67_30863873"/>
+    </s>
+    <s>
+      <eagle o="3_30863873"/>
+    </s>
+    <s>
+      <eagle o="4_30863873"/>
+    </s>
+    <s>
+      <eagle o="6_124062715"/>
+    </s>
+    <s>
+      <eagle o="4_124062715"/>
+    </s>
+    <s>
+      <eagle o="33_30863873"/>
+    </s>
+    <s>
+      <eagle o="31_30863873"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Heuristica-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Heuristica-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+.line1
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.line2
+{
+	color: #107fc9;
+	gradEndColor: #107fc9;
+	gradStartColor: #107fc9;
+}
+
+.line3
+{
+	color: #bc241a;
+	gradEndColor: #bc241a;
+	gradStartColor: #bc241a;
+}
+
+.line4
+{
+	color: #65984b;
+	gradEndColor: #65984b;
+	gradStartColor: #65984b;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	color: #a18d75;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.poly2
+{
+	color: #a18d75;
+	gradEndColor: #107fc9;
+	gradStartColor: #107fc9;
+}
+
+.poly3
+{
+	color: #a18d75;
+	gradEndColor: #e64038;
+	gradStartColor: #e64038;
+}
+
+.poly4
+{
+	color: #a18d75;
+	gradEndColor: #65984b;
+	gradStartColor: #65984b;
+}
+
+.poly5
+{
+	color: #a18d75;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #6b543c;
+	gradStart: #d7c6ae;
+	gradType: radial;
+}
+
+Grid
+{
+	color: #c9b092;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #c62017;
+	gradStartAlpha: 1;
+	gradStartColor: #c62017;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .9;
+	gradEndColor: #eee;
+	gradStartAlpha: .9;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #d07b00;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #cf492f;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.7;
+	color: #d5f956;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>6cfc6e5b</hash>
+<sync><oid>optapjzmuoqc</oid><title>lockheed-martin-f-35</title><hash>6cfc6e5b</hash></sync><config>VZF8nY89TbYIvZB7y/irMjl1lOejx0p6qzPdl4YwPoz8Pe0qBsiwBqc68ymy/tVH54yqH+aNal7bejzWT9v7vo82jwR2jRRPwm3uMbH1qNKX9VEZo345kCItnFAr/LfGns1g7V4kORn57+O7FvDbk9g13GA2bVQWb/AJgUy1rHr88AD/4pSD5eVFBvYGOvdf2HSiyIYFeUr0i5ZTRBUVPUUZtWkUJSLaJeAM+fJqKqIQns35aUY5wO3N/NhHd066St+v/+WX1yRmcvnqoo2VYLx97kSzIRXpE/eJHZab6ZKo3dwOJst9VSL+w7fQR8CyLGlEMypQaZUGrmHNPX2+ew==</config></zuiprezi>
